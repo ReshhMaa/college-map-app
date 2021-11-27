@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background: rgba(0, 0, 0, 0.7);
+    background-image:url('/img/campus.jpg');
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.ask{
+    padding-top: 15%;
+    text-align: center;
+    text-shadow: 100%;
+    color: rgb(236, 229, 225);
+}
+.floor{
+    align-items: center;
+}
+button{
+    margin-left: 46%;
+}
